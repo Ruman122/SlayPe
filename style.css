@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 *{
- margin-left: 10%;
+ margin: 0%;
+ margin-rigt:10%;
  padding: 0;
  box-sizing: border-box;
  font-family: 'Indie Flower', cursive;
